@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>博客园-『 天道酬勤 』   www.LiTianping.com 李天平的博客</title>
+    <link>http://www.cnblogs.com/ltp/</link>
+    <description>君子之行，静以修身，俭以养德。非淡泊无以明志，非宁静无以致远。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 29 May 2009 08:07:07 GMT</lastBuildDate>
+    <pubDate>Fri, 29 May 2009 08:07:07 GMT</pubDate>
+    <ttl>60</ttl>
+    <item>
+      <title>IBatisNet开发使用小结 之二</title>
+      <link>http://www.cnblogs.com/ltp/archive/2009/05/03/1448082.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Sun, 03 May 2009 04:00:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2009/05/03/1448082.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/1448082.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2009/05/03/1448082.html#Feedback</comments>
+      <slash:comments>4</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/1448082.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/1448082.html</trackback:ping>
+      <description><![CDATA[摘要: 续IBatisNet开发使用小结 之一四． IBatisNet组件使用1. DomSqlMapBuilderDomSqlMapBuilder，其作用是根据配置文件创建SqlMap实例。可以通过这个组件从Stream, Uri, FileInfo, or XmlDocument instance 来读取sqlMap.config文件。2. SqlMapSqlMapper是IBatisnet的核心组件&nbsp;&nbsp;<a href='http://www.cnblogs.com/ltp/archive/2009/05/03/1448082.html'>阅读全文</a><img src ="http://www.cnblogs.com/ltp/aggbug/1448082.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47123/" target="_blank">Azure SDK & Tools May CTP发布</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>IbatisNet开发使用小结 之一</title>
+      <link>http://www.cnblogs.com/ltp/archive/2009/03/05/1404258.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Thu, 05 Mar 2009 14:45:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2009/03/05/1404258.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/1404258.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2009/03/05/1404258.html#Feedback</comments>
+      <slash:comments>5</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/1404258.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/1404258.html</trackback:ping>
+      <description><![CDATA[摘要: 一． 介绍 平常做企业级应用，需求变化是经常的事，而很多基础代码重复也是很让人头疼的问题。所以很多人会使用一些ORM框架来增强项目的可维护性、可扩展性。IBatis.Net就是一个比较易用的ORM框架，使用起来较为方便、灵活。IBatis.Net是从Ibatis的Java版本移植过来的.NET版本。iBATIS作为一种独特的Data Mapper，使用SQL映射的方式将对象持久化至关系型数据库。简&nbsp;&nbsp;<a href='http://www.cnblogs.com/ltp/archive/2009/03/05/1404258.html'>阅读全文</a><img src ="http://www.cnblogs.com/ltp/aggbug/1404258.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47122/" target="_blank">Chrome, Firefox, IE8 在Windows 7的表现比Vista快12%</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>技术以外的功夫</title>
+      <link>http://www.cnblogs.com/ltp/archive/2008/12/31/1366360.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Wed, 31 Dec 2008 14:45:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2008/12/31/1366360.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/1366360.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2008/12/31/1366360.html#Feedback</comments>
+      <slash:comments>33</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/1366360.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/1366360.html</trackback:ping>
+      <description><![CDATA[<p>&nbsp;&nbsp;&nbsp; 记得看过冯仑的&#8220;赚钱以外的功夫&#8221;有感而发，写写我们IT人技术以外的功夫。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;有时候发现做技术做长了，很多的人的性格都会发生变化，变得内向，变得封闭。有的会发现市场团队的开会，大家都你一言我一语，踊跃发言，争相斗艳。而有的时候程序员开会要么一声不吭，要么就会变成牢骚会，这需求不好，那个做法不对。<br />
+&nbsp;&nbsp;&nbsp; 我们为何不换个角度看问题或者处理问题呢：我觉得如果这么做可能更好，如果那么做可以避免这样的问题。开放式的摆平心态讨论问题。当然也许这只是一少部分现象，也许并不普遍。因为很多心态开放，积极思考的人多半最后都会走的很好，而那些只会牢骚的人，多年以后仍在别的公司发着同样的牢骚。这就是不同!<br />
+&nbsp;&nbsp;&nbsp; 我发现一个非常有趣的现象，某些人在工作的时候，许多人都比他技术高经验多，但后来那些技术高的人不见了，而这些人却一路高升。比尔盖茨创业的时候，比他钱多的人也很多，但盖茨今天成了首富。中国许多企业家也是如此。为什么？<br />
+就像你驾驶一辆汽车在高速公路上要并线转弯，既要车不能翻，还要保持速度，这非常难。这时候的问题不在于汽油，而在于司机的技巧，这个技巧就是技术以外的东西。技术以外的能力究竟是什么能力？我讲四种。</p>
+<p><strong>一. 摆平心态<br />
+</strong>&nbsp;&nbsp;&nbsp; 技术以外的能力之一是做人的能力，特别是做人的心态。我发现凡是真正技术高超的人，反倒都善于把自己的心态放得很平和，在中国文化里这叫谦虚，就是你得尊重别人。凡是刚开始做技术的时候，他们的心态都很重要，就是很谦恭、谦虚、谦卑。我们圈里肯定也有这种人，技术稍微好一些（所谓的好一些就是指在他所在的几个人中好一些）就牛的了不得，对别人不屑理睬，对主管牛气冲天。<br />
+&nbsp;&nbsp;&nbsp; 还有的人，一遇到问题，嘴一裂，&#8220;这没法弄，根本没法实现。&#8221;&#8220;那个bug跟我没有关系，是谁谁的问题&#8221;，&#8220;人家谁谁拿多少工资，我才这么点&#8221;&#8220;人家什么什么公司多么多么好，你瞧咱这破公司哪哪都不好&#8221;<br />
+&nbsp;&nbsp;&nbsp; 许多人的晋升，并不完全由于能力，更多是因为成熟的心态与心胸。积极的表达方式：不说&#8220;我无能为力&#8221;，而是说&#8220;尽力尝试有无其他可能性&#8221;。不说&#8220;他使我怒不可遏&#8221;，而是说&#8220;我可以控制自己的情绪&#8221;！<br />
+&nbsp;&nbsp;&nbsp; 还有的人不爱参与集体活动，开会也不愿发表个人的建议，甚至不愿任何给自己展示机会的场合，觉得那些跟自己没有关系，但又反过来觉得自己怀才不遇抱怨漫天。其实，人生是个大舞台，职场是个小舞台，想在舞台上扮演主角，要在游戏中获胜，就得先登上舞台，先加入游戏。不要去做&#8220;看客&#8221;。否则，你永远都是个旁观者。突破&#8220;看客&#8221;困境，要做主角，第一步就是得去争取有戏可演，哪怕一开始只是个跑龙套的。</p>
+<p><strong>二. 做事的方法<br />
+</strong>&nbsp;&nbsp; 技术以外的第二个能力是做事的方法。做事的方法是我们提高效率，少走弯路的手段。你之所以先做这个而不先做那个，之所以这么做而不是那么做，就是做事的方法。古人云：&#8220;只要功夫深，铁棒磨成针&#8221;。勤劳的美德在历来都被奉高尚的美誉。但同样的努力同样的付出而结果却不同，这就是为什么有些人能够成功，有些人不能够成功。<br />
+&nbsp;&nbsp;&nbsp; 做事的方法，就是在你心里看待人，事，物的关系的时候，你出发的角度，个人素养和情商，所展现出来的一种决策逻辑。你拿这个逻辑来判断问题，而这个东西会引导你采用不同的方式来执行。例如，我们看马云，不要看马云成功的故事，而应该看马云是怎样在微观决策的时候，判断细小的是非。比如马云在上市的时候，他只拿了5％的股份，这就是价值观。还有一些人，忙活了半天没见什么成效，甚至适得其反。做事的方法确实会导致很多的人生不同和结局。<br />
+&nbsp;&nbsp;&nbsp; 人的一生会遇到千千万万的事情，而在面对这些事情的时候其实有个很关键的原则：选择正确的事去做。<br />
+&nbsp;&nbsp;&nbsp; (1) 做正确的事情比正确地做事情要重要得多，也有效的多。<br />
+&nbsp;&nbsp;&nbsp; (2) 成功人士也许做不成很多事情，但却能够集中精力做成一件事情。而事实上，这一件事往往就足以改变一个人的命运。<br />
+&nbsp;&nbsp;&nbsp; (3) 必须放弃或减少那些与重要的事无关的东西，必须忍住不为小事所缠。如果一个人过于努力想把所有事都做好，他就不会把最重要的事做好。<br />
+&nbsp;&nbsp;&nbsp; (4) 成功者大都深知：&#8220;太专注于小事的人通常会变得对大事无能&#8221;，并能清楚&#8220;抓住大事，小事自会照顾好自己&#8221;的道理。<br />
+&nbsp;&nbsp;&nbsp; (5) 事情来了先别急着做，先想想能否不做。这也是很多技术人员常有的习惯，遇到问题恨不能马上动手写出代码实现看看，其实你会发现无形中做了很多的无用功，浪费了很多时间，当然，你也许得到了一种满足感！</p>
+<p><strong>三. 责任感和担当<br />
+</strong>&nbsp;&nbsp; 还有就是一个人在生活中和工作中表现出来的责任感和担当。因为如果你没有责任感就不可能委以重任，如果没有那份担当就没有一种勇气和魄力来征服挫折和困难。所有人想成功必须面对两个问题，承担更大责任，带领大家征服未来的魄力。偷奸耍滑只能快活一时，唯唯诺诺则难成大器。<br />
+&nbsp;&nbsp;&nbsp; 在工作也是这样，如果我们做事有很强的责任心，交到我们手上的工作会认认真真，保证质量的完成，让领导放心，得组织信任，你觉得是不是会让你负责更重要的项目呢？如果我们遇事懂得积极解决问题，碰到困难敢于面对，你觉得是不是会对你负责未来的项目有充分的信心呢？有了这样的责任和担当，就有了一个领导者最基本的品质。 </p>
+<p><strong>四. 目标与定位<br />
+</strong>&nbsp;&nbsp;&nbsp; 无论是人生在世，还是闯荡职场，总要有个目标和定位。目标对人生有巨大的导向性作用。成功，在事业起步的时候仅仅是一种选择，你选择什么样的目标，就会有什么样的人生。不少朋友最大的痛苦就是不知道自己适合做什么，该干什么，该走什么路，不满于现状之余又不得不沉沦于现实。<br />
+&nbsp;&nbsp;&nbsp; 所以，先认清&#8220;正确的结果&#8221;，根据正确的结果去设计你的过程。当一个人具有明确目标，会对有助于实现目标的蛛丝马迹都特别敏感，做事情相应也就会很有目的性，而不是稀里糊涂。所以，就容易到达自己的目的。如果没有目标，就算是天上真有神仙，如果你不能明确地说明自己想要什么，神仙也不知道该给你什么。<br />
+&nbsp;&nbsp;&nbsp; 职业规划就是要搞清楚自己的优势在什么地方，自己最适合做什么。它的目的不是要你变成另外一个人，而是变成最好的你自己。当有了自己坚定的目标和定位，打工就不再是为别人卖命，而是为了自己的目标在奋斗！用这样的标准来衡量自己的成长和进步，那样的人生会变得更轻松，更快乐。</p>
+<p>&nbsp;&nbsp;&nbsp; 如果你自认为你得技术还不错，但一直没有晋升的话，我想你有必要想想这些技术以外的功夫了。<br />
+&nbsp;&nbsp; （作者：<a href="http://www.litianping.com/">李天平</a>&nbsp; 转载请注明）<br />
+</p>
+  <img src ="http://www.cnblogs.com/ltp/aggbug/1366360.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47121/" target="_blank">Google Wave: 新一代沟通平台</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>创业公司的“四不五缺”! </title>
+      <link>http://www.cnblogs.com/ltp/archive/2008/12/20/1360077.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Sat, 20 Dec 2008 13:36:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2008/12/20/1360077.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/1360077.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2008/12/20/1360077.html#Feedback</comments>
+      <slash:comments>3</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/1360077.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/1360077.html</trackback:ping>
+      <description><![CDATA[<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">对创业公司的发展有时也在思考和总结，成绩虽然有，但发展到今天没有更快速的成长，你是否也想过也许还有很多做的不足的地方需要改进。是否也犯过这样那样的错误？是否想过&#8220;四不五缺&#8221;？</span><span lang="EN-US" xml:lang="EN-US">&nbsp;<wbr></span></p>
+<p class="MsoNormal" style="text-indent: 24.1pt"><strong style="mso-bidi-font-weight: normal"><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">不务实</span></strong><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">：目标过大，动不动就是搞个概念要去拿风投，要上市，预想自己的开盘目标就能挣个上千</span><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">万。作为一个刚起步的互联网公司，不知道在做一些决策和目标的时候有没有充分的市场依据，有没有必要的市场调研和数据分析。不要总说我们的产品市场前景足够大，有几亿几亿的市场，我们只要做到</span><span lang="EN-US" xml:lang="EN-US">10%</span><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">，就可以达到多少多少了。关键的问题是自己能做到多大？如何才能做到那么大？什么时间能做那么大？在这个时间段内市场是否已经发生了变化？太虚幻的目标只能会让我们好高骛远，追大求全。从而忽视了身边的各种小的商机。</span></p>
+<p class="MsoNormal" style="text-indent: 21pt"><span lang="EN-US" xml:lang="EN-US">&nbsp;</span><strong style="mso-bidi-font-weight: normal"><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">不精简</span></strong><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">：一开始团队就按着黄金团队的模式在打造，一个萝卜一个坑，各就其位。关键是前期是不是真的有必要有那个坑，那个坑是不是有必要有个萝卜。如果不是每个人都能发挥百分之百的效能那就是浪费资源。创业团队其实应该轻和精。中国人做事其实有时候不是人越多越好。正所谓：一个和尚挑水吃，两个和尚抬水吃，三个和尚没水吃。</span></p>
+<p class="MsoNormal" style="text-indent: 21pt"><span lang="EN-US" xml:lang="EN-US">&nbsp;</span><strong style="mso-bidi-font-weight: normal"><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">不专业</span></strong><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">：一种情况是做的业务不是自己最擅长的业务和领域。二是创业期间，在团队用人上多以感情做基础委以重任，而非&#8220;因岗设人，能力对口&#8221;&#8220;专业的人干专业的事&#8221;。存在着很大的不专业性，这一切往往为以后的发展埋下了隐患。</span></p>
+<p class="MsoNormal" style="text-indent: 21pt"><span lang="EN-US" xml:lang="EN-US">&nbsp;</span><strong style="mso-bidi-font-weight: normal"><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">不聚焦</span></strong><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">：有些创业公司业务规划不清晰，总是走走看，走不通了换方向。多个产品线并行，外带飞单项目开发。可以想象如此分散精力，怎能挖透那口井。现在竞争激烈的市场需要差异化细分和具有核心竞争力的产品，需要选准一个点，做专做精才有出头，否则，根本轮不到你出头。如果为了现金流做一些副业供养生计，但做副业是为了养主业，做副业的同时主业也应该有进展和进步才可以。否则，整个精力都在做副业，主业会荒废了，当优势不再是优势我们就已经落伍了。因为社会在发展不进步就是后退。如果实在因为资金压力做不下去，我们就需要考虑学会放弃一部分，继续细分只做其中一个点或一个环节。</span></p>
+<p class="MsoNormal" style="text-indent: 21pt"><span lang="EN-US" xml:lang="EN-US">&nbsp;<wbr></span></p>
+<p class="MsoNormal" style="text-indent: 21pt"><span lang="EN-US" xml:lang="EN-US">&nbsp;</span><strong style="mso-bidi-font-weight: normal"><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin"><span style="font-size: 14pt"><strong style="mso-bidi-font-weight: normal"><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">缺成本控制</span></strong></span>：</span></strong><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">很多企业刚开始也许是拿到了一部分资金，然后就开始膨胀，最后揭不开锅了。如果前期成本控制的好一些，后期不至于很被动，甚至因为资金链断裂而完蛋。而现实中这样的例子还在不断的重演，不断的发生，然而总是有人还是在不断的犯错。</span></p>
+<p class="MsoNormal" style="text-indent: 21pt"><span lang="EN-US" xml:lang="EN-US"><wbr></span></p>
+<p class="MsoNormal" style="text-indent: 24.1pt"><strong style="mso-bidi-font-weight: normal"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin"><span style="font-size: 12pt"><strong style="mso-bidi-font-weight: normal"><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin"><span style="font-size: 14pt"><strong style="mso-bidi-font-weight: normal"><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin"><strong style="mso-bidi-font-weight: normal"><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin"><span style="font-size: 14pt"><strong style="mso-bidi-font-weight: normal"><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin"><strong style="mso-bidi-font-weight: normal"><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin"><strong style="mso-bidi-font-weight: normal"><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin"><strong style="mso-bidi-font-weight: normal"><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">缺信任</strong></strong></span></span></strong></span></span></strong></span></strong></span></span></strong></span></span></strong></span></span></strong><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">：缺信任往往体现在对公司的发展思路上，而原因往往是在利益分配上。有时候会在思路上发生很多争执，而最关键的是争执之后留在每个人心里的那个结。从而形成各自的小算盘。创业团队如果不能做到</span><span lang="EN-US" xml:lang="EN-US">"</span><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">万众一心</span><span lang="EN-US" xml:lang="EN-US">"</span><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">，拥有共同的价值观，成功起来是很难的。创业公司的文化中不应该带有太多心结，办公室政治不应该属于创业团队。</span></p>
+<p class="MsoNormal" style="text-indent: 21pt"><span lang="EN-US" xml:lang="EN-US">&nbsp;</span><strong style="mso-bidi-font-weight: normal"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin"><span style="font-size: 12pt"><strong style="mso-bidi-font-weight: normal"><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">缺信心</span></strong></span>：</span></strong><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">创业的艰难是有目共睹的，特别是创业到了后期遇到困难和资金紧张，大家就开始缺乏信心，因为各种征兆表明现实不容乐观，是否要做？有多大价值？作为领导人如果没有信心走出困境，不能给大家以前进的动力和信心，失败就已经开始了。</span></p>
+<p class="MsoNormal" style="text-indent: 21pt"><span lang="EN-US" xml:lang="EN-US">&nbsp;</span><strong style="mso-bidi-font-weight: normal"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin"><span style="font-size: 12pt"><strong style="mso-bidi-font-weight: normal"><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">缺愿景</span></strong></span>：</span></strong><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">其实，愿景并不是就是上市。金钱只是一种表现形式。因为上了市的公司仍然需要有他的愿景。对共 产 党而言，也许共产主义就是一种愿景。我们的愿景是什么呢？有什么东西能让我们齐心协力，万众一心的往前走呢？很多时候，我们缺少对大家未来目标和期望值的一种构思和梦想。</span></p>
+<p class="MsoNormal" style="text-indent: 21pt"><span lang="EN-US" xml:lang="EN-US">&nbsp;</span><strong style="mso-bidi-font-weight: normal"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin"><a href="http://www.cnblogs.com/ltp/archive/2008/03/23/1118958.html" target="_blank"><strong style="mso-bidi-font-weight: normal"><span style="font-size: 12pt; font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin"><font style="font-size: 14pt" color="#5e4830">缺坚持</font></span></strong></a>：</span></strong><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">很多公司的失败往往并不是因为业务不好，而是没有坚持下来。在黎明前的头一天晚上倒下了。创业是一件很艰苦的事情，没有坚持，很难成功！</span></p>
+<p class="MsoNormal" style="text-indent: 21pt"><span lang="EN-US" xml:lang="EN-US">&nbsp;</span></p>
+<p class="MsoNormal" style="text-indent: 21pt"><span style="font-family: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">在这个寒冷的冬天，你是否遇到了这些问题？</span></p>
+<p class="MsoNormal" style="text-indent: 21pt">&nbsp;</p>
+<p class="MsoNormal" style="text-indent: 21pt"><span lang="EN-US" xml:lang="EN-US">&nbsp;</span><span lang="EN-US" xml:lang="EN-US">&nbsp;</span><span lang="EN-US" style="font-size: 10pt; line-height: 130%" xml:lang="EN-US">&nbsp;<wbr></span><span style="font-size: 9pt; line-height: 130%">（作者：<a href="http://blog.sina.com.cn/ltp2008" target="_blank"></a><a href="http://www.litianping.com/" target="_blank"><span lang="EN-US" xml:lang="EN-US"><span lang="EN-US" xml:lang="EN-US"><font color="#5e4830">李天平</font></span></span></a></span><span lang="EN-US" xml:lang="EN-US">&nbsp;<wbr>&nbsp;<wbr></span>转载请注明）</p>
+<p class="MsoNormal" style="text-indent: 21pt">&nbsp;</p>
+<img src ="http://www.cnblogs.com/ltp/aggbug/1360077.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47118/" target="_blank">Silverlight 3最早将在7月10日发布</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>动软.Net代码生成器 发布2.17 版</title>
+      <link>http://www.cnblogs.com/ltp/archive/2008/10/01/1302689.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Tue, 30 Sep 2008 16:11:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2008/10/01/1302689.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/1302689.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2008/10/01/1302689.html#Feedback</comments>
+      <slash:comments>23</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/1302689.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/1302689.html</trackback:ping>
+      <description><![CDATA[1.增加了高效连接模式：适合大量表的情况下，启用此项实现快速连接。详见：<a href="http://bbs.maticsoft.com/showtopic-382.aspx" target="_blank">http://bbs.maticsoft.com/showtopic-382.aspx</a><br />
+2.增加对MySQL数据库的支持。详见：<a href="http://bbs.maticsoft.com/showtopic-381.aspx" target="_blank">http://bbs.maticsoft.com/showtopic-381.aspx</a><br />
+3.根据sql语句直接生成SQL脚本的拼接代码，这样提供更灵活的数据层代码生成。<br />
+4.根据sql查询结果生成数据脚本,而不是整个表的数据脚本。详见：<a href="http://bbs.maticsoft.com/showtopic-383.aspx" target="_blank">http://bbs.maticsoft.com/showtopic-383.aspx</a><br />
+5.基于sql方式DAL代码生成，add方法增加字段空值插入的判断<br />
+6. BLL增加public List&lt;&gt; GetModelList()方法，返回list&lt;&gt;数据。<br />
+7.记录错误日志信息。<br />
+8.发布BLL层代码模板组件源码。<br />
+9.发布Web层代码生成组件源码。<br />
+10.发布Model代码生成组件源码。下载：<a href="http://bbs.maticsoft.com/showtopic-37.aspx" target="_blank">http://bbs.maticsoft.com/showtopic-37.aspx</a><br />
+<br />
+免费下载：<a href="http://www.maticsoft.com/softdown.aspx" target="_blank">http://www.maticsoft.com/softdown.aspx</a> 
+ <img src ="http://www.cnblogs.com/ltp/aggbug/1302689.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47117/" target="_blank">Google：HTML5将让微软和竞争对手站在同一条起跑线</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>赢在中国 - 史玉柱经典语录 </title>
+      <link>http://www.cnblogs.com/ltp/archive/2008/04/20/1162910.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Sun, 20 Apr 2008 13:34:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2008/04/20/1162910.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/1162910.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2008/04/20/1162910.html#Feedback</comments>
+      <slash:comments>16</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/1162910.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/1162910.html</trackback:ping>
+      <description><![CDATA[<p><img height="104" alt="" src="http://www.cnblogs.com/images/cnblogs_com/ltp/01.JPG" width="548" border="0" /><br /><br />
+1.要重视建立销售手册<br />
+2.凡是先做试点，风险才低。<br />
+3.找到自己的细分市场。<br />
+4.不要总想着同竞争对手对立，而是要想办法让自己弥补竞争对手的不足。<br />
+5. 如果没有价格上的优势与技术上的绝对优势，千万不要进入红海市场，否则你会必输无疑！<br />
+6.抓住关键环节，重点抓好市场调研。<br />
+7.与其改变消费者固有的想法，不如在消费者已熟悉的想法上去引导消费者。<br />
+8.要改变消费者固有的想法，比登太阳还难；但不是不可能的。 <br />
+9.对普通员工，首先考虑其利益，然后才是社会价值。<br />
+10.我在我的公司只管一件事——市场调研。<br />
+11.公司在小的时候，尽量要股权集中。<br />
+12.要花大的精力建立一个连最基层的员工可以看明白及易于操作的手册，尤其是《管理手册》和《营销手册》；<br />
+13.要重视建设团队，核心团队一般不超过7人。<br />
+14.要脚踏实地的从小做起，团队重于个人作用。<br />
+15.要注意广告的法律限制。<br />
+16.90%的困难你现在想都没有想到，你都不知道那是困难。<br />
+17.首先一定要建立、运营第一家店，并根据其写成一个&#8220;傻瓜手册&#8221;,做成功一个店之后离你大的成功就不远了，首先就是脚踏实地、集中精力做成功一个。<br />
+18.试销市场慢跑，快不得；全国市场快跑，慢不得！<br />
+&nbsp;&nbsp; 做全国性市场，一定要先做一个试销市场，要一点点来，快不得；<br />
+&nbsp;&nbsp; 做成了，真到做全国市场时，要快半步，慢不得！<br />
+19.不要只看塔尖，二三线市场比一线的更大。 <br />
+20.失败是很重要的财富，我们要好好的利用它。<br />
+&nbsp;&nbsp; 作为我们曾经失败过，至少有过失败经历的人，应该经常从里面学点东西。人在成功的时候是学不到东西的，人在顺境的时候，在成功的时候，沉不下心来，总结的东西自然是很虚的东西。只有失败的时候，总结的教训才是深刻的，才是真的。<br />
+21.关系不是核心竞争力；关系是最靠不住的东西! <br />
+22.广告靠吸引比靠强迫更难。<br />
+23.不要为改变而改变，主要看改变的商业模式能提升什么样的价值。<br />
+24.创业过程中很重要的在于制度建设。<br />
+25.要让公司全部人员知道——管理无情,人有情，公司制度是无价的；<br />
+26.在公司只有功劳，没有苦劳。<br />
+27.当战略定好后，关键在于执行力，细节决定成败。<br />
+28.在下班后，可以将员工当成伙伴，但上班时员工就是员工。<br />
+29. 团队核心成员有人要提出辞职时，不要挽留，既然提出了，他迟早是要走的。<br />
+30.所谓人才，就是你交给他一件事情，他做成了；你再交给他一件事情，他又做成了。<br />
+31.最痛苦的时候，压力最大的时候，脑子里面只有一件事儿的时候，我把全国分公司经理招到荒山脚下北大门那个地方.招待所里面，然后在那个地方闭门开批判会。大家批判我，批判了三天三夜，我觉得那个就很有用。 <br />
+32.如果脑白金无效，就请告诉身边一百个人 <br />
+33 创造事件营销让媒体自觉报道<br />
+&nbsp;&nbsp;&nbsp; 我先找到差异化，我的产品和其它的产品差异在哪儿？<br />
+&nbsp;&nbsp;&nbsp; 营销里面有个叫第一法则。你到哈佛去学的时候，他会说一个案例。对美国人来说，谁第一个飞越大西洋的人？一般都能回答得出来，但是问谁是第二个飞越的，就没人能回答出来了。谁是第三个飞越的？记得了。为什么？第三个是第一个女性飞越，她拥有了个第一。<br />
+&nbsp;&nbsp;&nbsp; 你一定要在你的品牌建设里面，把你的第一给挖出来，猛宣传那一点。<br />
+&nbsp;&nbsp;&nbsp; 宣传用什么手段呢？我建议别上来上电视。第一、报纸，第二个、创造事件营销，让媒体作为新闻自觉去报道你，这样很省钱。 </p> <img src ="http://www.cnblogs.com/ltp/aggbug/1162910.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47116/" target="_blank">微软发布全新中文搜索品牌“必应”</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>产品的价值是否就是满足用户需求？</title>
+      <link>http://www.cnblogs.com/ltp/archive/2008/04/07/1141053.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Mon, 07 Apr 2008 13:50:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2008/04/07/1141053.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/1141053.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2008/04/07/1141053.html#Feedback</comments>
+      <slash:comments>21</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/1141053.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/1141053.html</trackback:ping>
+      <description><![CDATA[<p><font face="Verdana">从事开发这个行业，经常遇到需求变化是在所难免的，很多时候都是为了迎合客户的需要而对系统进行不断的修改和变化。关于对产品的需求变化和系统修改，个人有一点看法写出来交流一下。<br />
+&nbsp;&nbsp;&nbsp; 很多时候我们都是在不断的满足用户的需求来获取订单（当然，为了生存也许是不得已）。系统需求的不断变化定制开发，在给用户带来满足的同时，不断变化的需求也导致系统的庞大而复杂。<br />
+我其实也在想一个问题，满足用户需求是否就是提高产品的价值？ 原理上讲这句话是没有错的，产品的价值就是为满足需求，为用户创造价值。但这里面有一个条件，产品的价值并不是满足所有人的需求。也不可能满足所有人的需求，任何一个产品都是如此。<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 那我们就需要考虑一个问题，我们满足谁的需求？谁才是我们真正的那部分目标用户？<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 产品在市场，就像一个人在社会，总要有一个原则和标准。这样的产品才受人尊重，实现目标。市场上很多大品牌的产品（如Sony,IBM,Motorola），功能反而很简单。并无法满足我们各种各样的需求。倒是那些&#8220;山寨机&#8221;各种功能齐全，应有仅有。这些现象说明什么呢？<br />
+</font><font face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp; 一个产品不能满足所有用户需求。不同的用户有不同的需求，同一用户在不同的条件下也有不同的需求，所以指望一个产品能满足所有用户的需求也不太可能。因此，任何产品都只能满足大部分用户的主要需求，企图满足所有需求的产品最后往往是一个大杂烩，什么都有，但什么都没有的感觉。<br />
+</font><font face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp; 从另一个层面讲，当我们获得大部分用户的主要需求以后，我们一方面需要把它们融入到产品设计里面——满足用户的主要需求；另一方面我们还要提升产品的设计——超越用户自身的需求。也就是不但要考虑产品的实用性，还要考虑产品的易用性和趣味性（附加的价值）；就像服装一样，同是为了保暖（当然，夏天的功能应该是为了防止走光吧:)）；但是具有品牌价值的名牌可以卖到上千上万的好价钱，而普通衣服只能卖个几十元，而且还令很多人对这些品牌趋之若鹜。 <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 曾经有个形象的例子，不知道有人是否看过斯诺克，如果大家看得话，不难发现职业选手和日常业余玩家有非常大的区别。那就是业余玩家往往希望一杆把所有球打进，一杆下去，母球四处横飞，每个球都在变化位置，结果也无法估计每个球的运动轨迹和停留点，目标球没有进，下一杆又没有好位置；而职业选手每次永远只打一个目标球，目标就是把目标球打进的同时母球有一个很好的停留点来打下一杆球，其中把母球的整个运动轨迹算得清清楚楚。其实产品设计也是一样，专业人员设计的产品永远只满足用户最主要的一个需求，其余的辅助就是为了帮助用户实现唯一的需求和为满足用户下一个需求做准备。<br />
+</font><font face="Verdana">当你在为了客户要求不断修改产品的时候，是否问过我们的原则和标准是什么，我们的定位是什么，我们的品牌是什么？<br />
+<br />
+</font></p>
+ <img src ="http://www.cnblogs.com/ltp/aggbug/1141053.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47114/" target="_blank">Web 3.0真的会很愚蠢吗？</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>贵在坚持 </title>
+      <link>http://www.cnblogs.com/ltp/archive/2008/03/23/1118958.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Sun, 23 Mar 2008 15:30:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2008/03/23/1118958.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/1118958.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2008/03/23/1118958.html#Feedback</comments>
+      <slash:comments>32</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/1118958.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/1118958.html</trackback:ping>
+      <description><![CDATA[<p>很早毛主席他老人家说过：人一辈子做一件好事不难，难得是一辈子做好事不做坏事。<br />
+就说明了这样一个道理，坚持是多么难的一件事。</p>
+<p>互联网创业也同样贵在坚持! <br />
+马云因为坚持，把阿里巴巴送上了市，造就了中国的电子商务时代，而更重要的是跟随他10年的18罗汉竟然没有一个离开，一直坚持跟随他，一直坚持把着件事做好。他们成功了！<br />
+马云说过：今天很残酷，明天更残酷，后天很美好，大部分人死在明天晚上，看不到后天的太阳。&#8221; </p>
+<p>金山的成功的背后也是不断自我颠覆，自我否定，自我选择，自我创新的艰难历程。<br />
+金山的坚持不但是为了活下去，而且是在残酷的竞争，甚至是死亡中坚持。最终金山终于实现上市的光荣与梦想。而为了这一切雷军坚持了18年！</p>
+<p>冯仑总说，&#8220;伟大是熬出来的&#8221;，他认为对信念的执着不能靠一时的小聪明。在遇到困难时，多数人是再选择而不是将原来的选择坚持到底，&#8220;成功者与常人的差别并不是智商而是一种毅力&#8221;</p>
+<p>创业如此，职场也是如此，一个开发人员经常换语言或开发工具的人往往哪个也学不精，因为没有专业积累。一个频繁换工作的人往往也很难有提升，因为没有行业积累。</p>
+<p>人做事往往会前紧后松，刚开始做的时候很积极，很认真，时间长了，就慢慢松懈了。<br />
+人的心态如果能始终如一坚持一种积极进取和激情，一如既往的保持一种状态，想不成功都难！<br />
+人需要一种持之以恒的精神，<br />
+坚持是一种能力，坚持是一种智慧，坚持是一种风度,<br />
+坚持就会胜利！&nbsp;</p>
+<p><span style="font-size: 9pt">（作者：<a href="http://www.litianping.com/" target="_blank"><font color="#a59fad">李天平</font></a>&nbsp;</span><span style="font-size: 9pt">&nbsp;</span><span style="font-size: 9pt">转载请注明）</span></p>
+ <img src ="http://www.cnblogs.com/ltp/aggbug/1118958.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47113/" target="_blank">时代华纳宣布分拆AOL成独立上市公司</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>人才是培养的吗？</title>
+      <link>http://www.cnblogs.com/ltp/archive/2008/03/20/1115504.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Thu, 20 Mar 2008 15:24:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2008/03/20/1115504.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/1115504.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2008/03/20/1115504.html#Feedback</comments>
+      <slash:comments>27</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/1115504.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/1115504.html</trackback:ping>
+      <description><![CDATA[摘要: 上段时间和朋友谈到一个人的职业发展问题，人总是想向上走，也想不搞技术，也想管理，也想创业，也想发财。其实我想有些是不适合的，以前听人说，想起老家的一句话：“别人教的曲唱不得”，意思就是：有些东西不是别人教就能会的，我还有些诧异，甚至不以为然&nbsp;&nbsp;<a href='http://www.cnblogs.com/ltp/archive/2008/03/20/1115504.html'>阅读全文</a><img src ="http://www.cnblogs.com/ltp/aggbug/1115504.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47110/" target="_blank">开心网不开心：“快乐SNS”遭遇行业潜规则</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>动软.net代码生成器使用视频演示</title>
+      <link>http://www.cnblogs.com/ltp/archive/2008/02/10/1066767.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Sun, 10 Feb 2008 15:24:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2008/02/10/1066767.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/1066767.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2008/02/10/1066767.html#Feedback</comments>
+      <slash:comments>8</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/1066767.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/1066767.html</trackback:ping>
+      <description><![CDATA[<h3>动软.net代码生成器使用视频演示</h3>
+<div class="t_msgfont" id="message23">
+<div id="ad_thread3_1"></div>
+<object codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" height="400" width="550" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+<param name="_cx" value="14552" /><param name="_cy" value="10583" /><param name="FlashVars" value="" /><param name="Movie" value="http://maticsoft.googlegroups.com/web/Codematic.swf?gda=l1r8Oz4AAAAcB6pl4RwiuPfuvTox7o--LcZWCv79nSXrzJnOUWuzSmG1qiJ7UbTIup-M2XPURDRsA2is7wdl1Wy0TvBP3gNo" /><param name="Src" value="http://maticsoft.googlegroups.com/web/Codematic.swf?gda=l1r8Oz4AAAAcB6pl4RwiuPfuvTox7o--LcZWCv79nSXrzJnOUWuzSmG1qiJ7UbTIup-M2XPURDRsA2is7wdl1Wy0TvBP3gNo" /><param name="WMode" value="Window" /><param name="Play" value="-1" /><param name="Loop" value="-1" /><param name="Quality" value="High" /><param name="SAlign" value="" /><param name="Menu" value="-1" /><param name="Base" value="" /><param name="AllowScriptAccess" value="sameDomain" /><param name="Scale" value="ShowAll" /><param name="DeviceFont" value="0" /><param name="EmbedMovie" value="0" /><param name="BGColor" value="FFFFFF" /><param name="SWRemote" value="" /><param name="MovieData" value="" /><param name="SeamlessTabbing" value="1" /><param name="Profile" value="0" /><param name="ProfileAddress" value="" /><param name="ProfilePort" value="0" /><param name="AllowNetworking" value="all" /><param name="AllowFullScreen" value="false" />
+<embed src="http://maticsoft.googlegroups.com/web/Codematic.swf?gda=l1r8Oz4AAAAcB6pl4RwiuPfuvTox7o--LcZWCv79nSXrzJnOUWuzSmG1qiJ7UbTIup-M2XPURDRsA2is7wdl1Wy0TvBP3gNo" quality="high" bgcolor="#ffffff" width="550" height="400" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"   /></object><br />
+    <br />
+    <a href="http://maticsoft.googlegroups.com/web/Codematic.htm?gda=c5_DkT4AAAAcB6pl4RwiuPfuvTox7o--LcZWCv79nSXrzJnOUWuzSmG1qiJ7UbTIup-M2XPURDS6fwpiF33lWdzr76vziURO" target="_blank">全屏观看</a><br />
+    <br />
+    <a href="http://www.maticsoft.com/flash.rar" target="_blank">全部视频下载<br />
+    </a></div>   <img src ="http://www.cnblogs.com/ltp/aggbug/1066767.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47108/" target="_blank">丁磊与暴雪娱乐CEO致信《魔兽世界》中国玩家</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>你的胸怀是被谁撑大的？</title>
+      <link>http://www.cnblogs.com/ltp/archive/2007/11/01/946200.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Thu, 01 Nov 2007 13:54:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2007/11/01/946200.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/946200.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2007/11/01/946200.html#Feedback</comments>
+      <slash:comments>58</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/946200.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/946200.html</trackback:ping>
+      <description><![CDATA[摘要: 有句话说："一个人的成就有多大，取决于他的胸怀有多大"&nbsp;&nbsp;<a href='http://www.cnblogs.com/ltp/archive/2007/11/01/946200.html'>阅读全文</a><img src ="http://www.cnblogs.com/ltp/aggbug/946200.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47106/" target="_blank">Facebook被盯上了！</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>成功不仅是靠创意</title>
+      <link>http://www.cnblogs.com/ltp/archive/2007/10/30/943572.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Tue, 30 Oct 2007 14:14:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2007/10/30/943572.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/943572.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2007/10/30/943572.html#Feedback</comments>
+      <slash:comments>26</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/943572.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/943572.html</trackback:ping>
+      <description><![CDATA[<p><br />
+爱迪生说：天才就是1％的灵感加上99％的汗水。我个人认为其实企业也是这个道理，成功需要1%的创意加上99%的执行。牛顿看到了苹果落地，如果没有花费99%的努力去研究和探索，那个灵感也只是昙花一现的空话。<br />
+所以，无论是做人，做事，还是做产品做企业，1%很重要，否则，99%的汗水会花的没有价值。<br />
+同理，99%的汗水更重要，否则，所有的灵感都是虚幻。再好的创意，没有99%的执行，是很难成功的。 很多时候不缺乏创意，不缺乏想法，但最终能成功的却是靠很强的执行力和坚韧不拔的坚持。<br />
+现在的市场很多时候拼的就是人才，拼的就是团队，团队最重要的是什么？</p>
+<div class="item-content">
+<p>三流的点子加一流的执行力，永远比一流的点子加三流的执行力更好,日本软银公司董事长孙正义说。<br />
+制度不执行，比没制度危害更大。——[英]弗兰西斯.培根<br />
+所以，一流的制度+三流的执行力，不如一流的执行力+三流的制度。</p>
+<p>想到不重要，重要的是做到!</p>
+<div class="clear"><br />
+<p><span style="font-size: 9pt">（作者：<a href="http://www.litianping.com/" target="_blank">李天平</a>&nbsp;</span><span style="font-size: 9pt">&nbsp;</span><span style="font-size: 9pt">转载请注明）</span></p>
+</div>
+</div>
+<img src ="http://www.cnblogs.com/ltp/aggbug/943572.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47105/" target="_blank">开心网程炳皓：瞄准注册用户1亿目标</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>为什么没有一部关于程序员的电影？ </title>
+      <link>http://www.cnblogs.com/ltp/archive/2007/09/08/887063.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Sat, 08 Sep 2007 15:48:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2007/09/08/887063.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/887063.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2007/09/08/887063.html#Feedback</comments>
+      <slash:comments>96</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/887063.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/887063.html</trackback:ping>
+      <description><![CDATA[<p>现实中关于军人的，爱情的，工人的，白领的，各种人群的影视作品有很多，我几年前就想为什么没有一部专门关于程序员的电影呢？其实程序员的生活也是很精彩的，也许搞电影的这些老大们没有太多人熟悉IT吧，懂软件开发更是寥寥;)，也许这个人群还不为人注意，但是，我想现在这个人群已经在不断扩涨，在不断成为社会很重要的一个人群，甚至成为职场招聘排行榜的头10名，随着科技发展，这些人才需求还在不断增加。很多社会服务和智能化设备都离不开软件系统，无论是电信，银行还是政务办公，旅游,买票，医院,挂号，公交出行，社会生活处处都是软件系统的身影。他们创造了现代化的生活，在现代化提升和科技生活的背后是无数开发人员辛勤的劳动。</p>
+<p>真应该有一部描写现代程序员的电影，更深一点讲可以描写现在的科技生活的电影，如电子商务，在线购物，信息资讯，行业垂直搜索，博客、播客视频娱乐生活、维客，交友，digg，web2.0的新互联网互动生活，网游，SP移动，智能家电等等，以及各种便利的网络化生活，我想不但可以描写社会现实生活，体现社会发展，也可以起到全民教育的作用，甚至可以引导大家更真实的看待这个行业，认识这个发展的世界，毕竟这个行业对于现代生活，已经不可分割。</p>
+<img src ="http://www.cnblogs.com/ltp/aggbug/887063.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47104/" target="_blank">微软Windows 7将自带多点触控软件包</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>无为而治&amp;灯下黑</title>
+      <link>http://www.cnblogs.com/ltp/archive/2007/08/17/860337.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Fri, 17 Aug 2007 14:01:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2007/08/17/860337.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/860337.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2007/08/17/860337.html#Feedback</comments>
+      <slash:comments>69</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/860337.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/860337.html</trackback:ping>
+      <description><![CDATA[很多时候，灯下黑!<br />
+上面的Leader太强势，往往是造成下面的团队思考力不强，<br />
+老子太牛，往往是儿子并不出色，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br />
+诸葛亮太亮，下面太黑，所以，他走了，蜀国就灭了！<br />
+马云说:<font face="Courier New">大树底下难长草。</font><br />
+上面越亮，下面越黑。<br />
+团队之道，无为而治。 <br />
+<br />
+<br />
+<a href="http://www.cnblogs.com/ltp/archive/2007/08/17/860337.html#861270">释意</a> 
+  <img src ="http://www.cnblogs.com/ltp/aggbug/860337.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47095/" target="_blank">一个Web设计师一天的程序生涯</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>参加第6期项目管理者联盟俱乐部沙龙聚会</title>
+      <link>http://www.cnblogs.com/ltp/archive/2007/06/20/790990.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Wed, 20 Jun 2007 13:42:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2007/06/20/790990.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/790990.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2007/06/20/790990.html#Feedback</comments>
+      <slash:comments>4</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/790990.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/790990.html</trackback:ping>
+      <description><![CDATA[<div class=postText>参加第6期项目管理者联盟俱乐部沙龙聚会
+<p>本次沙龙活动的部分照片</p>
+<p><br><a href="http://www.mypm.net/bbs/uploadImages/200761815542362830.jpg" target=_blank><img alt=按此在新窗口浏览图片 src="http://www.mypm.net/bbs/uploadImages/200761815542362830.jpg" onload="javascript:if(this.width>screen.width-333)this.width=screen.width-333" border=0 src_cetemp="http://www.mypm.net/bbs/uploadImages/200761815542362830.jpg"></a><br>嘉宾—李涛（摩托罗拉公司软件研发高级经理）</p>
+<p><br><a href="http://www.mypm.net/bbs/uploadImages/200761815553845960.jpg" target=_blank><img alt=按此在新窗口浏览图片 src="http://www.mypm.net/bbs/uploadImages/200761815553845960.jpg" onload="javascript:if(this.width>screen.width-333)this.width=screen.width-333" border=0 src_cetemp="http://www.mypm.net/bbs/uploadImages/200761815553845960.jpg"></a><br>嘉宾—李涛向大家讲解MBTI人格测验有关问题。</p>
+<p><br><a href="http://www.mypm.net/bbs/uploadImages/200761815573429130.jpg" target=_blank><img alt=按此在新窗口浏览图片 src="http://www.mypm.net/bbs/uploadImages/200761815573429130.jpg" onload="javascript:if(this.width>screen.width-333)this.width=screen.width-333" border=0 src_cetemp="http://www.mypm.net/bbs/uploadImages/200761815573429130.jpg"></a><br>参加者聚精会神的听着嘉宾的演讲</p>
+<p><br><a href="http://www.mypm.net/bbs/uploadImages/200761815581348505.jpg" target=_blank><img alt=按此在新窗口浏览图片 src="http://www.mypm.net/bbs/uploadImages/200761815581348505.jpg" onload="javascript:if(this.width>screen.width-333)this.width=screen.width-333" border=0 src_cetemp="http://www.mypm.net/bbs/uploadImages/200761815581348505.jpg"></a><br>人格测验中，SJ组的人讨论自己本组人的性格特征</p>
+<p><br><a href="http://www.mypm.net/bbs/uploadImages/20076181613419695.jpg" target=_blank><img alt=按此在新窗口浏览图片 src="http://www.mypm.net/bbs/uploadImages/20076181613419695.jpg" onload="javascript:if(this.width>screen.width-333)this.width=screen.width-333" border=0 src_cetemp="http://www.mypm.net/bbs/uploadImages/20076181613419695.jpg"></a><br>&nbsp; <img src="http://www.cnblogs.com/CuteSoft_Client/CuteEditor/images/emsmile.gif" align=absMiddle border=0>人格测验中，人数最少，最具领导性格特征的NJ组人合影。</p>
+<p><br><br><a href="http://www.mypm.net/bbs/uploadImages/20076181631322776.jpg" target=_blank><img alt=按此在新窗口浏览图片 src="http://www.mypm.net/bbs/uploadImages/20076181631322776.jpg" onload="javascript:if(this.width>screen.width-333)this.width=screen.width-333" border=0 src_cetemp="http://www.mypm.net/bbs/uploadImages/20076181631322776.jpg"></a><br>人格测验中，最具有激情，喜欢新鲜事物的NP组人的讨论合影</p>
+<p><br><a href="http://www.mypm.net/bbs/uploadImages/20076181614130092.jpg" target=_blank><img alt=按此在新窗口浏览图片 src="http://www.mypm.net/bbs/uploadImages/20076181614130092.jpg" onload="javascript:if(this.width>screen.width-333)this.width=screen.width-333" border=0 src_cetemp="http://www.mypm.net/bbs/uploadImages/20076181614130092.jpg"></a><br>人格测验中，吃喝玩乐型，追求和谐环境的SP组人讨论时还是很认真严肃的</p>
+<p><br><br><a href="http://www.mypm.net/bbs/uploadImages/200761816563436912.jpg" target=_blank><img alt=按此在新窗口浏览图片 src="http://www.mypm.net/bbs/uploadImages/200761816563436912.jpg" onload="javascript:if(this.width>screen.width-333)this.width=screen.width-333" border=0 src_cetemp="http://www.mypm.net/bbs/uploadImages/200761816563436912.jpg"></a><br>分小组、分主题讨论时候的合影</p>
+<p><br><a href="http://www.mypm.net/bbs/uploadImages/200761816571192826.jpg" target=_blank><img alt=按此在新窗口浏览图片 src="http://www.mypm.net/bbs/uploadImages/200761816571192826.jpg" onload="javascript:if(this.width>screen.width-333)this.width=screen.width-333" border=0 src_cetemp="http://www.mypm.net/bbs/uploadImages/200761816571192826.jpg"></a><br>分小组、分主题讨论时候的合影</p>
+<p><a href="http://www.mypm.net/bbs/uploadImages/20076181745336530.jpg" target=_blank><img alt=按此在新窗口浏览图片 src="http://www.mypm.net/bbs/uploadImages/20076181745336530.jpg" onload="javascript:if(this.width>screen.width-333)this.width=screen.width-333" border=0 src_cetemp="http://www.mypm.net/bbs/uploadImages/20076181745336530.jpg"></a><br></p>
+<p><br><a href="http://www.mypm.net/bbs/uploadImages/20076181792117300.jpg" target=_blank></a><img style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-WIDTH: 0px; BORDER-BOTTOM-COLOR: black; WIDTH: 640px; BORDER-TOP-COLOR: black; HEIGHT: 425px; BORDER-RIGHT-WIDTH: 0px; BORDER-RIGHT-COLOR: black" height=425 alt=合影 src="http://www.cnblogs.com/images/cnblogs_com/ltp/46234/o_pm1.jpg" width=640 border=0>&nbsp;<br>&nbsp; 大家的合影<br><br>项目管理者联盟原文地址: <a href="http://www.mypm.net/bbs/article.asp?titleid=51445&amp;ntypeid=5019"><font color=#000080>http://www.mypm.net/bbs/article.asp?titleid=51445&amp;ntypeid=5019</font></a></p>
+</div>
+ <img src ="http://www.cnblogs.com/ltp/aggbug/790990.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47094/" target="_blank">微软Office实验室-愿景未来2019</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>累并快乐着3-成就是靠团队打造的</title>
+      <link>http://www.cnblogs.com/ltp/archive/2007/05/07/738267.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Mon, 07 May 2007 12:55:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2007/05/07/738267.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/738267.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2007/05/07/738267.html#Feedback</comments>
+      <slash:comments>14</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/738267.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/738267.html</trackback:ping>
+      <description><![CDATA[<p class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">前段时间项目紧锣密鼓的上线了，每个人都忙的团团转。我更是责无旁贷了。前期由于项目团队的建设没有完全稳定，自己确实在项目里是眉毛胡子一把抓了，虽然我早知道，要做好一个件事情，不是仅仅靠某一个人的力量所能及的，但要达到一个目标，很多事情都是被逼出来的，我想做过项目经理的人多少都有过这样的体会。项目管理到底是技术重要还是管理重要，这一直也是一个有争议的话题，我在此不作过多评论，只是谈一点自己的想法和感受。随着公司团队在不断稳定和壮大，项目也基本上平稳进行，事情也会越来越多，深深感受到产品不是靠一个人创造的，事业也不是靠一个人拼出来的，所以，作为以后的工作，侧重点也许不会放在代码上，</span><span lang=EN-US><font face=Calibri>(</font></span><span style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">当然，也不会完全放弃代码，因为我觉得在中国这样的一个环境，这是团队沟通的基础</span><span lang=EN-US><font face=Calibri>)</font></span><span style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">，以后工作的一个重点，那就是所有企业和事业的根本—人！</span></p>
+<p class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><span lang=EN-US><o:p><font face=Calibri>&nbsp;</font></o:p></span></p>
+<p class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">首先就是选人，作为一个团队甚至一个企业，选择优秀</span><span lang=EN-US><font face=Calibri>&amp;</font></span><span style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">合适的人确实是很重要的，作为选人，每个企业或每个人都有自己的标准，选对了人会事半功倍，选错了人就会事倍功半，这是所有工作的根本和基础。我个人认为，其实这个世界不缺乏有能力的人，但真正找一个能力和品德共存的人比较难，这里的品德不仅仅是人品好的意思，而是除了技术能力之外，如敬业精神责任心，能动性，诚信及职业道德，做人的心态，做事的方法习惯，为人处事，学习能力，沟通能力，</span><span lang=EN-US><font face=Calibri>EQ</font></span><span style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">等等个人思想方面的一些潜质。虽然不是每个人都可以十全十美，但做为考察人才的一个方面，这些东西有的时候比技术更关键，因为技术是可以迅速学习的。当然根据不同职位，还是有所侧重，并不是说什么都不会做也可以，这就是误会了。</span></p>
+<p class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><span lang=EN-US><o:p><font face=Calibri>&nbsp;</font></o:p></span></p>
+<p class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">同时，准备培养团队里的明星，根据每个人的特点，发挥他们的特长，挖掘他们的潜力，让他们不断提升自己的能力，把潜力发挥到极致。我不会总是冲在第一线</span><span lang=EN-US><font face=Calibri>coding</font></span><span style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">，会在第二线为他们提供支持和服务，提供资源，让他们做的更好，因为一个人不可能什么都会，什么都通，不可能做完所有的工作，团队里需要有各方面的专家，事业是靠团队优势互补的力量打造出来的，正如比尔，虽然他是个天才，但他不可能完成所有的一切，任何一个产品都是成千上万的团队打造出来的。同时，如果一个团队的领导人过于强调自己能力或过多控制项目的开发，反而会影响的团队高水平的发挥，影响项目的质量和水平，让优秀的走在自己的前面，让他们超越自己，更能发挥他们的潜力，更能创造出优秀，高质量，高水平的产品。</span></p>
+<p class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">所以我的目标就是，寻找优秀的人，让他们做最合适的工作，并激励他们做的更好！<br><br><br></span></p>
+  <img src ="http://www.cnblogs.com/ltp/aggbug/738267.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47093/" target="_blank">Google I/O 2009 大会</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>诚聘 项目经理 &amp; C++开发高手</title>
+      <link>http://www.cnblogs.com/ltp/archive/2007/04/22/723202.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Sun, 22 Apr 2007 15:02:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2007/04/22/723202.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/723202.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2007/04/22/723202.html#Feedback</comments>
+      <slash:comments>6</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/723202.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/723202.html</trackback:ping>
+      <description><![CDATA[摘要: &nbsp;&nbsp;<a href='http://www.cnblogs.com/ltp/archive/2007/04/22/723202.html'>阅读全文</a><img src ="http://www.cnblogs.com/ltp/aggbug/723202.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47092/" target="_blank">科技公司薪金揭秘：谷歌人均年薪15万美元</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>累并快乐着二 - 是什么成就了你的价值</title>
+      <link>http://www.cnblogs.com/ltp/archive/2007/04/14/713702.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Sat, 14 Apr 2007 15:46:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2007/04/14/713702.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/713702.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2007/04/14/713702.html#Feedback</comments>
+      <slash:comments>49</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/713702.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/713702.html</trackback:ping>
+      <description><![CDATA[摘要: &nbsp;&nbsp;<a href='http://www.cnblogs.com/ltp/archive/2007/04/14/713702.html'>阅读全文</a><img src ="http://www.cnblogs.com/ltp/aggbug/713702.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47091/" target="_blank">谷歌推Web Elements 实现网页内嵌谷歌产品</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>累并快乐着! </title>
+      <link>http://www.cnblogs.com/ltp/archive/2007/04/14/712831.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Fri, 13 Apr 2007 22:45:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2007/04/14/712831.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/712831.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2007/04/14/712831.html#Feedback</comments>
+      <slash:comments>11</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/712831.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/712831.html</trackback:ping>
+      <description><![CDATA[摘要: &nbsp;&nbsp;<a href='http://www.cnblogs.com/ltp/archive/2007/04/14/712831.html'>阅读全文</a><img src ="http://www.cnblogs.com/ltp/aggbug/712831.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47091/" target="_blank">谷歌推Web Elements 实现网页内嵌谷歌产品</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+    <item>
+      <title>诚聘：ASP.Net 软件开发工程师</title>
+      <link>http://www.cnblogs.com/ltp/archive/2007/03/15/675309.html</link>
+      <dc:creator>李天平</dc:creator>
+      <author>李天平</author>
+      <pubDate>Wed, 14 Mar 2007 23:15:00 GMT</pubDate>
+      <guid>http://www.cnblogs.com/ltp/archive/2007/03/15/675309.html</guid>
+      <wfw:comment>http://www.cnblogs.com/ltp/comments/675309.html</wfw:comment>
+      <comments>http://www.cnblogs.com/ltp/archive/2007/03/15/675309.html#Feedback</comments>
+      <slash:comments>46</slash:comments>
+      <wfw:commentRss>http://www.cnblogs.com/ltp/comments/commentRss/675309.html</wfw:commentRss>
+      <trackback:ping>http://www.cnblogs.com/ltp/services/trackbacks/675309.html</trackback:ping>
+      <description><![CDATA[摘要: 现招聘ASP.Net 软件开发人员，诚邀高手加入<br><br>&nbsp;&nbsp;<a href='http://www.cnblogs.com/ltp/archive/2007/03/15/675309.html'>阅读全文</a><img src ="http://www.cnblogs.com/ltp/aggbug/675309.html?type=1" width = "1" height = "1" /><br/><br/>--------------------------<br/>新闻：<a href="http://news.cnblogs.com/n/47090/" target="_blank">陈天桥造梦网络迪士尼又进一步</a><br/>网站导航: <a href="http://www.cnblogs.com" target="_blank">博客园首页</a>&nbsp;&nbsp;<a href="http://news.cnblogs.com" target="_blank">新闻</a>&nbsp;&nbsp;<a href="http://dotnet.cnblogs.com" target="_blank">.NET频道</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com" target="_blank">社区</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/q/" target="_blank">博问</a>&nbsp;&nbsp;<a href="http://space.cnblogs.com/ing/" target="_blank">闪存</a>&nbsp;&nbsp;<a href="http://zzk.cnblogs.com" target="_blank">找找看</a>]]></description>
+    </item>
+  </channel>
+</rss>
