@@ -3182,59 +3182,59 @@ namespace Codematic
                 }
                 #endregion
 
-                #region	sql
+                //#region	sql
 
-                try
-                {
-                    LTP.DbObjects.Oracle.DbObject dbOra = dbobj2 as LTP.DbObjects.Oracle.DbObject;
-                    if (dbOra != null)
-                    {
-                        DataTable dtv = dbOra.GetSqls(dbname);
-                        Dictionary<string, string> tabNamePair = dbobj2.GetViewsEx(dbname);
-                        if (dtv != null)
-                        {
-                            DataRow[] dRows = dtv.Select("", "name ASC");
-                            foreach (DataRow row in dRows)//循环每个表
-                            {
-                                string tabname = row["name"].ToString();
-                                TreeNode tbNode = new TreeNode(tabname);
-                                tbNode.ImageIndex = 6;
-                                tbNode.SelectedImageIndex = 6;
-                                tbNode.Tag = "sql";
-                                if (tabNamePair != null && tabNamePair.ContainsKey(tabname))
-                                    tbNode.ToolTipText = tabNamePair[tabname];
-                                //sqlNode.Nodes.Add(tbNode);
-                                AddTreeNode(sqlNode, tbNode);
-                                if (!ConnectSimple)
-                                {
-                                    //加字段信息
-                                    List<ColumnInfo> collist = dbobj2.GetColumnList(dbname, tabname);
-                                    if ((collist != null) && (collist.Count > 0))
-                                    {
-                                        foreach (ColumnInfo col in collist)
-                                        {
-                                            string columnName = col.ColumnName;
-                                            string columnType = col.TypeName;
-                                            TreeNode colNode = new TreeNode(columnName + "[" + columnType + "]");
-                                            colNode.ImageIndex = 7;
-                                            colNode.SelectedImageIndex = 7;
-                                            colNode.Tag = "column";
-                                           // tbNode.Nodes.Add(colNode);
-                                            AddTreeNode(tbNode, colNode);
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
+                //try
+                //{
+                //    LTP.DbObjects.Oracle.DbObject dbOra = dbobj2 as LTP.DbObjects.Oracle.DbObject;
+                //    if (dbOra != null)
+                //    {
+                //        DataTable dtv = dbOra.GetSqls(dbname);
+                //        Dictionary<string, string> tabNamePair = dbobj2.GetViewsEx(dbname);
+                //        if (dtv != null)
+                //        {
+                //            DataRow[] dRows = dtv.Select("", "name ASC");
+                //            foreach (DataRow row in dRows)//循环每个表
+                //            {
+                //                string tabname = row["name"].ToString();
+                //                TreeNode tbNode = new TreeNode(tabname);
+                //                tbNode.ImageIndex = 6;
+                //                tbNode.SelectedImageIndex = 6;
+                //                tbNode.Tag = "sql";
+                //                if (tabNamePair != null && tabNamePair.ContainsKey(tabname))
+                //                    tbNode.ToolTipText = tabNamePair[tabname];
+                //                //sqlNode.Nodes.Add(tbNode);
+                //                AddTreeNode(sqlNode, tbNode);
+                //                if (!ConnectSimple)
+                //                {
+                //                    //加字段信息
+                //                    List<ColumnInfo> collist = dbobj2.GetColumnList(dbname, tabname);
+                //                    if ((collist != null) && (collist.Count > 0))
+                //                    {
+                //                        foreach (ColumnInfo col in collist)
+                //                        {
+                //                            string columnName = col.ColumnName;
+                //                            string columnType = col.TypeName;
+                //                            TreeNode colNode = new TreeNode(columnName + "[" + columnType + "]");
+                //                            colNode.ImageIndex = 7;
+                //                            colNode.SelectedImageIndex = 7;
+                //                            colNode.Tag = "column";
+                //                           // tbNode.Nodes.Add(colNode);
+                //                            AddTreeNode(tbNode, colNode);
+                //                        }
+                //                    }
+                //                }
+                //            }
+                //        }
+                //    }
 
-                }
-                catch (System.Exception ex)
-                {
-                    LogInfo.WriteLog(ex);
-                    MessageBox.Show(this, "获取数据库" + dbname + "的视图信息失败：" + ex.Message, "系统提示", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
-                #endregion
+                //}
+                //catch (System.Exception ex)
+                //{
+                //    LogInfo.WriteLog(ex);
+                //    MessageBox.Show(this, "获取数据库" + dbname + "的视图信息失败：" + ex.Message, "系统提示", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                //}
+                //#endregion
 
                 #region 存储过程
                 try

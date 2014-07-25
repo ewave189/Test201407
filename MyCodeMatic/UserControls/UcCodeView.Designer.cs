@@ -62,7 +62,8 @@ namespace Codematic.UserControls
             LTP.TextEditor.Document.DefaultHighlightingStrategy defaultHighlightingStrategy4 = new LTP.TextEditor.Document.DefaultHighlightingStrategy();
             LTP.TextEditor.Document.GapTextBufferStrategy gapTextBufferStrategy4 = new LTP.TextEditor.Document.GapTextBufferStrategy();
             LTP.TextEditor.Document.DefaultTextEditorProperties defaultTextEditorProperties4 = new LTP.TextEditor.Document.DefaultTextEditorProperties();
-            this.txtContent_Web = new LTP.TextEditor.TextEditorControl();
+            txtContent_Web = new TextEditorControl();
+          //  this.txtContent_Web = new LTP.TextEditor.TextEditorControl();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.menu_Save = new System.Windows.Forms.ToolStripMenuItem();
             this.txtContent_CS = new LTP.TextEditor.TextEditorControl();

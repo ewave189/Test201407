@@ -44,7 +44,7 @@ namespace Codematic
         private Label label4;//服务器配置
         #endregion
 
-       private Microsoft.Office.Interop.Word.Application WordApp = new Microsoft.Office.Interop.Word.ApplicationClass();
+        private Microsoft.Office.Interop.Word.Application WordApp = new Word.Application();
        //  Word._Application oWord = new Word.Application();
        // Word.Application () ;
         Loading load = new Loading();
